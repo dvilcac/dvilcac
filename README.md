@@ -19,8 +19,8 @@
    <img src = "https://img.shields.io/twitter/follow/DavidVilca8249?label=David%20Vilca&style=cuadrado&logo=facebook&color=blue"
    alt="facebook Badge" />
    </a>
-    <a href="www.linkedin.com/in/davidgvvc">
-   <img src = "https://img.shields.io/twitter/follow/DavidVilca8249?label=David%20Vilca&style=cuadrado&logo=facebook&color=blue"
+    <a href="https://www.linkedin.com/in/davidgvvc/">
+   <img src = "https://img.shields.io/twitter/follow/DavidVilca8249?label=David%20Vilca&style=cuadrado&logo=linkedin&color=blue"
    alt="facebook Badge" />
    </a>
 
