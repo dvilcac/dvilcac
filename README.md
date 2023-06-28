@@ -12,9 +12,20 @@
    alt="Twitter Badge" />
    </a>
    <a href="https://www.instagram.com/davidvilcaconde/">
-   <img src ="https://img.shields.io/twitter/follow/davidvilcaconde?style=plastic&logo=instagram"
+   <img src ="https://img.shields.io/twitter/follow/davidvilcaconde?style=plastic&logo=instagram&color=red"
    alt="instagram Badge" />
    </a>
+   <a href="https://www.facebook.com/profile.php?id=100091865388346">
+   <img src = "https://img.shields.io/twitter/follow/DavidVilca8249?label=David%20Vilca&style=cuadrado&logo=facebook&color=blue"
+   alt="facebook Badge" />
+   </a>
+    <a href="www.linkedin.com/in/davidgvvc">
+   <img src = "https://img.shields.io/twitter/follow/DavidVilca8249?label=David%20Vilca&style=cuadrado&logo=facebook&color=blue"
+   alt="facebook Badge" />
+   </a>
+
+   https://img.shields.io/twitter/follow/DavidVilca8249?label=David%20Vilca&style=cuadrado&logo=facebook&color=blue
+
 
 </div>
 
