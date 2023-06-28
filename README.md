@@ -49,8 +49,6 @@
         
  </div>
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavidG&theme=jolly&hide_border=&locale=es)](https://git.io/streak-stats)
-
 
 
 
