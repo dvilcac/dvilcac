@@ -10,6 +10,8 @@
    <a href="https://img.shields.io/twitter/follow/DavidVilca8249">
    <img src ="https://img.shields.io/twitter/follow/DavidVilca8249"
    alt="Twitter Badge" />
+   </a>
+   
 
 </div>
 
