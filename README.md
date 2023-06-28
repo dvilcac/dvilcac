@@ -1,4 +1,17 @@
-# Perfil de Estudiante
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="200"/>
+    <h1 align="center">Hola a Todos 😄</h1>
+    <h3 align="center">Me gusta mucho la programacion 😊 soy de Perú🇵🇪, actualmente soy estudiante universitario, me puedes seguir en mis redes sociales como Facebbok, Twitter, Instagram y Linkedin. </h1>  
+   
+</div>
+
+</div>
+<div id="badges" align="center">
+   <a href="https://img.shields.io/twitter/follow/DavidVilca8249">
+   <img src ="https://img.shields.io/twitter/follow/DavidVilca8249"
+   alt="Twitter Badge" />
+
+</div>
 
 ## Información personal
 
