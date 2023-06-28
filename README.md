@@ -11,7 +11,10 @@
    <img src ="https://img.shields.io/twitter/follow/DavidVilca8249"
    alt="Twitter Badge" />
    </a>
-   
+   <a href="https://instagram.com/DavidVilca8249">
+   <img src ="https://img.shields.io/twitter/follow/DavidVilca8249?style=plastic&logo=instagram"
+   alt="Twitter Badge" />
+   </a>
 
 </div>
 
